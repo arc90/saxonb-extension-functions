@@ -1,0 +1,1 @@
+The intent of this library is provide extension functions for use in XSLT transformation performed with the SaxonB library. These functions could be used with later versions of Saxon (PE and EE, but not HE). However, the functions currently contained in the library already exist in Saxon-PE and Saxon-EE. Extension functions are not supported in Saxon-HE.
